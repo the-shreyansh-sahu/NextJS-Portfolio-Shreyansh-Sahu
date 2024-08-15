@@ -41,8 +41,8 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-            I'M A VIDEO EDITOR, 3D ARTIST, PROGRAMMER, WEB DEVELOPER, GRAPHIC DESIGNER & VFX ARTIST FROM INDIA. <br/>
-            I'M Global Ambassador of IBM SkillsBuild.
+            I&apos;M A VIDEO EDITOR, 3D ARTIST, PROGRAMMER, WEB DEVELOPER, GRAPHIC DESIGNER & VFX ARTIST FROM INDIA. <br/>
+            I&apos;M Global Ambassador of IBM SkillsBuild.
           </p>
           <div>
             <Link

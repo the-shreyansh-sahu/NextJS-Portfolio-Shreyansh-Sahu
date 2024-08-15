@@ -55,7 +55,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-            I'M A VIDEO EDITOR, 3D ARTIST, PROGRAMMER, WEB DEVELOPER, GRAPHIC DESIGNER & VFX ARTIST FROM INDIA. 
+            I&apos;M A VIDEO EDITOR, 3D ARTIST, PROGRAMMER, WEB DEVELOPER, GRAPHIC DESIGNER & VFX ARTIST FROM INDIA. 
             I have a rich experience in Adobe Softwares, Blender, Visual Studio & WordPress. 
             I am a student and am always excited to learn new skills and gain experience.
           </p>
